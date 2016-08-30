@@ -1,0 +1,11 @@
+{
+  "name": "l5beauty",
+  "description": "My awesome blog",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
